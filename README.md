@@ -6,7 +6,7 @@
 1. [Материалы для обучения и установки гит](git-edu/edu-files.md)
 2. [Правила сдачи заданий](lab/rules.md)
 3. [ЛР 1](lab/lab1/README.md)
-4. [ЛР 2](lab/lab2/README.md)
+4. [ЛР 2](lab/lab2/src/README.md)
 5. [ЛР 3](lab/lab3/README.md)
 6. [ЛР 4](lab/lab4/README.md)
 
